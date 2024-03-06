@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EjerciciosRepaso.iml" filepath="$PROJECT_DIR$/.idea/EjerciciosRepaso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EstructurasdeControlPython/.idea/EstructurasdeControlPython.iml" filepath="$PROJECT_DIR$/../EstructurasdeControlPython/.idea/EstructurasdeControlPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Listas/.idea/Listas.iml" filepath="$PROJECT_DIR$/../Listas/.idea/Listas.iml" />
+    </modules>
+  </component>
+</project>
